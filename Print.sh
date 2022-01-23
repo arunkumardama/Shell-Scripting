@@ -4,6 +4,4 @@
 # shellcheck disable=SC1068
 t = "hello world"
 
-\n
-echo Print $t
-\t
+echo  $t
