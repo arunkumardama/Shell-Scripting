@@ -10,4 +10,4 @@ echo date is $DATE
 
 Date=$(Date +%c)
 
-Echo todays date and time $Date
+echo todays date and time $Date
