@@ -6,5 +6,5 @@ a = $((2+3))
 
 if [ $a -eq 5 ]
 then
-  echo print true
+  echo true
   fi
