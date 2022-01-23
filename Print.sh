@@ -2,6 +2,6 @@
 
 # Print a statement
 # shellcheck disable=SC1068
-t = "hello world"
+t = 2+3
 
 echo  $t
