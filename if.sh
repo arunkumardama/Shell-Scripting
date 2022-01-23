@@ -2,7 +2,7 @@
 
 ##If statement
 
-a = $((2+3))
+a = 5
 
 if [ $a -eq 5 ]
 then
