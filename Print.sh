@@ -2,6 +2,6 @@
 
 # Print a statement
 # shellcheck disable=SC1068
-t = $(2+3)
+name = "arun"
 
-echo name = $t
+echo print &name
