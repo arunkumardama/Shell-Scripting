@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Print a statement
+# shellcheck disable=SC1068
 t = "hello world"
 
 \n
-echo $t
+echo Print $t
 \t
