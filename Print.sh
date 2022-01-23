@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Print a statement
-echo hello world
+t = "hello world"
 
 \n
-echo Welcom to the world
+echo $t
 \t
