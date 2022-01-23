@@ -2,10 +2,10 @@
 
 ##input during execution
 
-read -p "Enter your Name: "name
+read -p "Enter your Name: " name
 
-echo "My name is $name"
+echo "your name = $name"
 
 read -p "Enter you Course Name: " course
 
-echo -p "Course name is $course"
+echo -p "Course name is = $course"
