@@ -2,9 +2,9 @@
 
 ##If statement
 
-a = 5
+a=6
 
-if [ $a -eq 5 ]
+if [ $a -eq 6 ]
 then
   echo true
   fi
