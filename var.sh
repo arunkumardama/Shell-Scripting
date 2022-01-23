@@ -8,6 +8,6 @@ echo date is $DATE
 
 ## print date and time
 
-Date=$(date +%c)
+date=$(date +%c)
 
 echo todays date and time $Date
