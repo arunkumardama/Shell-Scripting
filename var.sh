@@ -5,3 +5,9 @@
 DATE=$(date +%F)
 
 echo date is $DATE
+
+## print date and time
+
+Date=$(date +%c)
+
+Echo todays date and time $Date
