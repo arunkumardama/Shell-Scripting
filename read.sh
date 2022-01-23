@@ -8,4 +8,4 @@ echo "your name = $name"
 
 read -p "Enter you Course Name: " course
 
-echo -p "Course name is = $course"
+echo  "Course name is = $course"
