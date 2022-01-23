@@ -4,4 +4,4 @@
 # shellcheck disable=SC1068
 t = 2+3
 
-echo  $t
+echo name = $t
