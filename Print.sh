@@ -6,7 +6,7 @@ echo name = $student
 
 
 add=$((2+3))
-if add= 5
+if add==$5
 then
 echo number = $add
 fi
