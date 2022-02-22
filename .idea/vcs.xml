@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terraform" vcs="Git" />
   </component>
 </project>
